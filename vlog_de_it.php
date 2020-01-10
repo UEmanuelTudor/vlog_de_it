@@ -165,6 +165,17 @@ margin-left:10px;
 margin: 5px;
 margin-left:30px;
 }
+.div5{
+margin-left: 400px;
+margin-right: 300px;
+margin-top: 650px;
+height: 300px;
+}
+.div6 {
+ position: relative;
+ bottom: 0;
+width: 100%;
+}
 </style>
 
 <div class="div1" style="background-color:#20424E">
@@ -211,6 +222,9 @@ margin-left:30px;
    <p calss="p4" style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente. consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</p>
    <p class="p3"><strong>2011</strong></p>
    <p calss="p4" style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente. consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</p>
+   <p class="p3"><strong>Our Team</strong></p>
+   <p calss="p4" style="margin: 0;">Voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia.Voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia.Voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia.</p>
+
 </div>
 <div class="div4" style="background-color:#F0F0F0">
   <p class="p5"><strong>Latest News</strong></p>
@@ -225,6 +239,22 @@ margin-left:30px;
    <p class="p6" style="color:#4DCEF7 "><strong>Premium Quality</strong></p>
   <p class="p6">Voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia.</p>
 </div>
+
+<div class="div5" style="background-color:green">
+</div>
+
+<div class="div6" style="background-color:black">
+MESSI
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155852947-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155852947-1');
+</script>
 
 </body>
 </html>
