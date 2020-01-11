@@ -173,8 +173,19 @@ height: 300px;
 }
 .div6 {
  position: relative;
+ margin-top:50px;
  bottom: 0;
 width: 100%;
+height: 50px;
+color:white;
+}
+.p7{
+margin-left:1300px;
+padding:10px;
+}
+.p8{
+margin-left:1600px;
+margin-top:300px;
 }
 </style>
 
@@ -244,8 +255,11 @@ width: 100%;
 </div>
 
 <div class="div6" style="background-color:black">
-MESSI
+<p class="p7">Copyright © 2015. Template by</p>
+<a class="p8" href="https://webthemez.com/">WebThemez.com</a>
 </div>
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155852947-1"></script>
 <script>
